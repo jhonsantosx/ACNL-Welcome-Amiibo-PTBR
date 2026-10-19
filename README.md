@@ -9,17 +9,16 @@
 <p align="center">
   <a href="https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/releases"><b>Baixar a tradução</b></a> ·
   <a href="docs/INSTALACAO.md">Como instalar</a> ·
-  <a href="https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose">Enviar feedback</a> ·
-  <a href="CREDITOS.md">Créditos</a>
+  <a href="https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose">Enviar feedback</a>
 </p>
 
 [Português brasileiro](README.md) · **[English](README.en.md)**
 
 # Sua cidade, agora em português 🌿
 
-Projeto comunitário de tradução de **Animal Crossing: New Leaf — Welcome amiibo** para português brasileiro, organizado por [jhonsantosx](https://github.com/jhonsantosx), com base no trabalho de [LimaJonas](https://github.com/LimaJonas/Animal-Crossing-New-Leaf-PT_BR).
+Tradução de **Animal Crossing: New Leaf — Welcome amiibo** para português brasileiro.
 
-A proposta é preservar o humor e a personalidade dos moradores, com falas naturais e atenção ao espaço das caixas de texto. Você pode ajudar só jogando: uma foto de um texto cortado ou uma sugestão bem explicada já faz diferença.
+O projeto busca preservar o humor e a personalidade dos moradores, com falas naturais e ajustes para o espaço das caixas de texto.
 
 > **Prévia em desenvolvimento.** Há conteúdo herdado ainda em revisão, variantes de fala pendentes e ajustes de tamanho. A contagem de textos preparados não equivale a uma tradução inteiramente revisada ou testada no console. Veja o [estado detalhado](docs/STATUS.md).
 
@@ -58,14 +57,10 @@ Os botões automáticos **Source code (zip/tar.gz)** do GitHub contêm a documen
 
 Este projeto distribui o patch de tradução. Não disponibiliza CIA, ROM, chaves, firmware ou saves. Você precisa ter o jogo instalado separadamente.
 
-## Encontrou algo estranho?
+## Erros e sugestões
 
-Texto cortado, palavra em inglês, resposta fora de contexto, erro de concordância ou nome confuso: tudo isso pode ser relatado. Conte **onde aconteceu**, informe a **versão do patch** e anexe um **print das telas relevantes**. Não precisa descobrir o nome do arquivo interno.
+Use os [formulários de feedback](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose) para relatar problemas ou sugerir alterações. Informe a versão do patch, o local da ocorrência e, se possível, inclua um print. Orientações para contribuições estão no [guia](CONTRIBUTING.md).
 
-Não pedimos que você teste o jogo inteiro. Relate o que encontrar naturalmente, e acompanhe a discussão na sua issue. Sugestões de estilo também são bem-vindas.
+## Créditos
 
-## Um trabalho construído em conjunto
-
-**jhonsantosx** coordena o projeto, sua evolução, decisões de tradução, testes e publicação. A base de **LimaJonas / Jonas Lima** é reconhecida nos créditos. O desenvolvimento conta com assistência de IA; isso não substitui a revisão integral ainda em andamento.
-
-Consulte os [créditos e a procedência](CREDITOS.md) e as [informações sobre direitos](DIREITOS.md). Este é um projeto de fãs, sem vínculo ou endosso da Nintendo ou dos autores das ferramentas.
+Projeto por **jhonsantosx**. Base de tradução: **[LimaJonas](https://github.com/LimaJonas/Animal-Crossing-New-Leaf-PT_BR)**. [Créditos completos](CREDITOS.md) · [Direitos](DIREITOS.md).

@@ -4,9 +4,9 @@
 
 # Your town, in Brazilian Portuguese 🌿
 
-A community **Brazilian Portuguese translation** of **Animal Crossing: New Leaf — Welcome amiibo**, led by [jhonsantosx](https://github.com/jhonsantosx), building on the translation work of [LimaJonas](https://github.com/LimaJonas/Animal-Crossing-New-Leaf-PT_BR).
+A **Brazilian Portuguese translation** of **Animal Crossing: New Leaf — Welcome amiibo**. The project aims to preserve the villagers’ humor and personality, with natural dialogue adapted to the available text-box space.
 
-**[Download](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/releases)** · [Installation and updates](docs/GUIDE.en.md) · [Contribute](CONTRIBUTING.en.md) · [Credits](CREDITOS.md)
+**[Download](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/releases)** · [Installation and updates](docs/GUIDE.en.md) · [Contribute](CONTRIBUTING.en.md)
 
 > **Work-in-progress preview.** Inherited translations still need review, some dialogue variants remain untranslated, and layout fixes are ongoing. Prepared-entry coverage does not mean complete linguistic or in-game validation. See [status](docs/STATUS.md).
 
@@ -33,12 +33,10 @@ The automatic **Source code** archives contain documentation, not the installabl
 
 No CIA, full ROM, keys, firmware or saves are included. You need your own installed game.
 
-## Help improve it
+## Issues and suggestions
 
-Found a clipped word, untranslated sentence, wrong pronoun or confusing response? [Open an issue](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose) with the patch version, platform, location and a screenshot of the entire text box. Include the next page if the sentence continues. Phone photos are fine.
-
-You do not need to test the whole game or identify internal files. Reports from ordinary play are welcome. See [how to contribute](CONTRIBUTING.en.md).
+Use the [feedback forms](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose) to report problems or suggest changes. Include the patch version, location and a screenshot when possible. See the [contribution guide](CONTRIBUTING.en.md) for details.
 
 ## Credits
 
-**jhonsantosx** leads this edition's development, translation decisions, testing and community organization. **LimaJonas / Jonas Lima** provided the translation base. Development uses AI assistance; full review remains ongoing. See [credits](CREDITOS.md) and [rights information](DIREITOS.md). This is an unofficial fan project.
+Project by **jhonsantosx**. Translation base: **[LimaJonas](https://github.com/LimaJonas/Animal-Crossing-New-Leaf-PT_BR)**. [Full credits](CREDITOS.md) · [Rights](DIREITOS.md).
