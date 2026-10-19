@@ -1,0 +1,30 @@
+name: Sugestão de tradução
+description: Proponha uma fala mais natural, um termo ou uma melhoria nos guias.
+title: "[Sugestão] "
+body:
+  - type: input
+    id: versao
+    attributes:
+      label: Versão da tradução
+      placeholder: "Ex.: 0.114.0 ou não sei"
+    validations:
+      required: true
+  - type: textarea
+    id: atual
+    attributes:
+      label: Texto atual e contexto
+      description: Onde aparece? Quem está falando? Você pode anexar um print.
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Sua sugestão
+      description: Escreva a proposta e explique o motivo. Considere o espaço da caixa de texto.
+    validations:
+      required: true
+  - type: input
+    id: credito
+    attributes:
+      label: Como gostaria de aparecer nos créditos?
+      description: Opcional. Pode indicar seu usuário público ou pedir para não ser identificado.

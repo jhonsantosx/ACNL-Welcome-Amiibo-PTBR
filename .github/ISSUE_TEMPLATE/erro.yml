@@ -1,0 +1,48 @@
+name: Erro de texto ou problema no jogo
+description: Relate texto cortado, inglês, concordância, menu ou falha de funcionamento.
+title: "[Erro] "
+body:
+  - type: markdown
+    attributes:
+      value: "Obrigado por ajudar! Um print da caixa inteira é muito útil. Não envie ROM, CIA, chaves ou saves pessoais."
+  - type: input
+    id: versao
+    attributes:
+      label: Versão da tradução
+      description: Consulte VERSAO.txt no ZIP baixado. Se não souber, diga isso.
+      placeholder: "Ex.: 0.114.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: plataforma
+    attributes:
+      label: Onde você está jogando?
+      options:
+        - Nintendo 3DS / Luma3DS
+        - Citra
+        - Outro emulador
+    validations:
+      required: true
+  - type: input
+    id: edicao
+    attributes:
+      label: Edição do jogo e versão do Luma/emulador
+      description: Se souber, informe Title ID e qualquer atualização oficial instalada.
+      placeholder: "Welcome amiibo USA / 0004000000198E00"
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Onde aconteceu e qual foi o problema?
+      description: Informe personagem, local, evento ou menu. Transcreva a fala se possível.
+    validations:
+      required: true
+  - type: textarea
+    id: imagens
+    attributes:
+      label: Prints ou fotos
+      description: Arraste as imagens aqui. Mostre a caixa inteira e a tela seguinte se houver continuação.
+  - type: textarea
+    id: repetir
+    attributes:
+      label: Como repetir e o que você esperava
+      description: Opcional. Não precisa refazer toda a cena para enviar o relato.

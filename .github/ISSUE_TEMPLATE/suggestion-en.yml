@@ -1,0 +1,26 @@
+name: Translation suggestion (English)
+description: Suggest better Portuguese wording or documentation.
+title: "[Suggestion] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Translation version
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text and context
+      description: Who says it and where? Screenshots welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested wording and reason
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Preferred public credit
+      description: Optional. You may ask not to be named.

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="380" viewBox="0 0 1440 380" role="img" aria-labelledby="title desc">
+<title id="title">Welcome amiibo em português brasileiro</title><desc id="desc">Capa original do projeto comunitário de tradução. Verde escuro, fundo creme e uma folha desenhada.</desc>
+<rect width="1440" height="380" rx="28" fill="#F4F1E7"/>
+<path d="M1100 380Q1150 120 1440 70V380" fill="#DDE8CB"/>
+<circle cx="1280" cy="90" r="35" fill="#EDC86A"/>
+<path d="M1160 295C1070 218 1120 125 1275 128C1260 260 1230 296 1160 295Z" fill="#377B54"/>
+<path d="M1139 325L1239 167M1180 262L1176 204M1197 235L1241 224" stroke="#F4F1E7" stroke-width="7" fill="none" stroke-linecap="round"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#193F31">
+<text x="76" y="80" font-size="19" letter-spacing="4">TRADUÇÃO DA COMUNIDADE • PT-BR</text>
+<text x="72" y="157" font-size="53" font-weight="700">Animal Crossing: New Leaf</text>
+<text x="74" y="219" font-size="43">Welcome amiibo</text>
+<text x="76" y="294" font-size="24">Sua cidade, agora em português.</text>
+</g><rect x="1060" y="31" width="330" height="37" rx="18" fill="#193F31"/><text x="1225" y="56" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#F4F1E7">PRÉVIA • EM DESENVOLVIMENTO</text>
+</svg>

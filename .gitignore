@@ -1,0 +1,20 @@
+# O repositório público contém documentação; os patches ficam em Releases.
+*.cia
+*.cxi
+*.3ds
+*.nds
+*.bin
+*.umsbt
+*.msbt
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.log
+.env*
+romfs/
+originais/
+backups/
+saves/
+__pycache__/
