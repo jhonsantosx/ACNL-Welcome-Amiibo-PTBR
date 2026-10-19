@@ -6,7 +6,7 @@ Reports and suggestions in Portuguese or English are welcome. You do not need pr
 
 ## Report an issue
 
-Search existing issues, then use [the forms](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose). Include patch version, platform, character/location/event and the actual problem. Add a screenshot of the whole text box and any following page. Phone photos are fine.
+Search existing issues, then use [the forms](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/issues/new/choose). Include patch version, platform, character/location/event and the actual problem. Add a screenshot of the whole text box and any following page. Phone photos are fine.
 
 Describe reproduction steps if known, but do not replay an entire scene just to submit a report. Do not upload ROMs, CIA files, keys, account details or personal saves. Crop unrelated private information from screenshots.
 

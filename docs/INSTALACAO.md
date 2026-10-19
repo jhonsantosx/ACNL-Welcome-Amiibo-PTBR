@@ -2,7 +2,7 @@
 
 [English](GUIDE.en.md)
 
-Use **Welcome amiibo USA**, Title ID `0004000000198E00`. O download contém a tradução, não o jogo. Consulte a versão e as limitações em [Releases](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/releases).
+Use **Welcome amiibo USA**, Title ID `0004000000198E00`. O download contém a tradução, não o jogo. Consulte a versão e as limitações em [Releases](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/releases).
 
 ## No Nintendo 3DS com Luma3DS
 
@@ -49,7 +49,7 @@ O caminho deve terminar em `load/mods/0004000000198E00/romfs/Script/…`. No emu
 - No console, confirme **Enable game patching**.
 - Confira a versão do patch em `VERSAO.txt` no download.
 - Uma fala isolada em inglês pode ser uma pendência da prévia; não significa necessariamente falha de instalação.
-- Se persistir, [abra um relato](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose) com versão, plataforma e print. Se houver uma atualização oficial instalada, informe também.
+- Se persistir, [abra um relato](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/issues/new/choose) com versão, plataforma e print. Se houver uma atualização oficial instalada, informe também.
 
 ## O que já foi testado?
 

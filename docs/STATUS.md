@@ -19,7 +19,7 @@ Não há entradas sem algum tratamento na fila principal, mas isso **não signif
 
 Os testes verificam estrutura, comandos, integridade e regras de layout. Existem alertas anteriores explícitos; o lote não acrescentou novos excessos às verificações. O funcionamento de um piloto anterior foi relatado no Citra, mas não há aprovação visual de todas as falas desta versão nem validação integral em 3DS.
 
-Próximos focos: revisão das falas herdadas, variantes de gênero, artigos, tamanho de textos e testes em situações reais. Envie relatos pelo [formulário](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose).
+Próximos focos: revisão das falas herdadas, variantes de gênero, artigos, tamanho de textos e testes em situações reais. Envie relatos pelo [formulário](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/issues/new/choose).
 
 ## What these numbers mean
 

@@ -6,7 +6,7 @@ Obrigado por participar! Você pode contribuir com um relato, uma sugestão de r
 
 ## Relatar um problema
 
-Abra [uma issue pelo formulário](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose). Antes, procure se alguém já relatou a mesma fala.
+Abra [uma issue pelo formulário](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/issues/new/choose). Antes, procure se alguém já relatou a mesma fala.
 
 Inclua:
 

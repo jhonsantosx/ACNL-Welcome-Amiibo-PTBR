@@ -5,7 +5,7 @@
 ## Nintendo 3DS with Luma3DS
 
 1. Start with a working installation of **Welcome amiibo USA**, Title ID `0004000000198E00`.
-2. Download the attached translation ZIP from [Releases](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/releases), not the automatic Source code archive.
+2. Download the attached translation ZIP from [Releases](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/releases), not the automatic Source code archive.
 3. Save and close the game. Power off before removing the SD card.
 4. Extract the ZIP and copy **luma** to the SD card root. Merge folders; do not delete the entire existing luma folder.
 5. Eject the card, put it back and hold **SELECT** while powering on.
@@ -45,4 +45,4 @@ Check Title ID, folder nesting, English language and Enable game patching. Find 
 
 To revert, restore the previous patch folder. To disable, move the patch out of the loading path. Keep your save.
 
-[Report persistent issues](https://github.com/jhonsantosx/animal-crossing-new-leaf-welcome-amiibo-ptbr/issues/new/choose) with platform, patch version, official game update if any, and screenshots. Full console visual testing remains pending.
+[Report persistent issues](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/issues/new/choose) with platform, patch version, official game update if any, and screenshots. Full console visual testing remains pending.
