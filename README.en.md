@@ -4,17 +4,15 @@
 
 # Animal Crossing: New Leaf — Brazilian Portuguese Translation 🌿
 
-**Life in Welcome amiibo, with every conversation a little closer to home.**
+This project is bringing **Animal Crossing: New Leaf — Welcome amiibo** to Brazilian Portuguese, so players can enjoy the conversations, letters and everyday life in town without relying on English. It covers villager dialogue, menus, item names, shops and events, from arriving at the station to the encounters that happen throughout the game.
 
-This project aims to translate **Animal Crossing: New Leaf — Welcome amiibo** into Brazilian Portuguese, from the first conversations at the station to villagers’ letters, menus, items, shops and seasonal events. The goal is to let Brazilian players follow the stories, understand the activities and enjoy the small details of town life in their own language.
+Every villager has a voice of their own, and we want to keep that in the translation. Jokes and expressions are being adapted with care, while dialogue is revised to sound natural in Portuguese and fit the text boxes. Names and recurring terms are also being checked for consistency, so they remain easy to follow as you play.
 
-The work goes beyond replacing words. It includes adapting jokes and expressions, preserving each villager’s personality, keeping terminology consistent and fitting dialogue into the available screen space. Review also covers dialogue variants and control codes for names, responses and pauses, so that each line makes sense in its scene.
-
-The translation is distributed as a **patch separate from the game**, with Luma3DS installation and Citra testing instructions. Releases include change notes and known limitations, making it possible to follow development and update the patch without starting a new town.
+You can use the translation on a **3DS with Luma** or in **Citra**, following the guides below. It works as a separate patch: when a new version comes out, update the translation files and carry on with your town. Each release lists what changed and what still needs work.
 
 **[Download](https://github.com/jhonsantosx/ACNL-Welcome-Amiibo-PTBR/releases)** · [Installation and updates](docs/GUIDE.en.md) · [Contribute](CONTRIBUTING.en.md)
 
-> **Work-in-progress preview.** Inherited translations still need review, some dialogue variants remain untranslated, and layout fixes are ongoing. Prepared-entry coverage does not mean complete linguistic or in-game validation. See [status](docs/STATUS.md).
+> **The translation is still being reviewed.** You may find English text, awkward wording or lines that do not fit the screen. The prepared-text percentage does not mean everything has been reviewed or tested in-game. See [where the project stands](docs/STATUS.md).
 
 ## Supported edition
 

@@ -16,15 +16,13 @@
 
 # Animal Crossing: New Leaf — Tradução PT-BR 🌿
 
-**A vida em Welcome amiibo, com cada conversa mais perto de você.**
+A ideia deste projeto é trazer **Animal Crossing: New Leaf — Welcome amiibo** para o português brasileiro, para você aproveitar as conversas, as cartas e a vida na cidade sem depender do inglês. O trabalho inclui as falas dos moradores, menus, nomes de itens, lojas e eventos — desde a chegada na estação até os encontros que aparecem ao longo do jogo.
 
-Este projeto tem como objetivo traduzir **Animal Crossing: New Leaf — Welcome amiibo** para português brasileiro: das primeiras conversas na estação às cartas dos moradores, passando pelos menus, itens, lojas e eventos que fazem parte da rotina da cidade. A proposta é permitir que jogadores brasileiros acompanhem as histórias, entendam as atividades e aproveitem os pequenos detalhes do jogo no próprio idioma.
+Cada morador tem seu jeito de falar, e queremos manter isso na tradução. Por isso, as piadas e expressões estão sendo adaptadas com cuidado, e as falas passam por ajustes para soar bem em português e caber nas caixas de texto. Também estamos revisando os nomes e termos usados pelo jogo para evitar diferenças que possam confundir quem está jogando.
 
-O trabalho vai além da troca de palavras. Envolve adaptar piadas e expressões, preservar a personalidade de cada morador, manter os termos consistentes e ajustar as falas ao espaço disponível na tela. A revisão também considera as variações de diálogo e os comandos que controlam nomes, respostas e pausas, para que o texto faça sentido dentro de cada cena.
+Você pode instalar a tradução no **3DS com Luma** ou usar o **Citra**, seguindo os guias abaixo. Ela funciona como um patch separado: quando sair uma versão nova, basta atualizar os arquivos da tradução e continuar com a sua cidade. Cada lançamento traz uma lista do que mudou e do que ainda precisa de ajustes.
 
-A tradução é distribuída como um **patch separado do jogo**, com instalação pelo Luma3DS e instruções para testes no Citra. As versões são publicadas com histórico de alterações e pendências conhecidas, permitindo acompanhar a evolução do projeto e atualizar o patch sem recomeçar a cidade.
-
-> **Prévia em desenvolvimento.** Há conteúdo herdado ainda em revisão, variantes de fala pendentes e ajustes de tamanho. A contagem de textos preparados não equivale a uma tradução inteiramente revisada ou testada no console. Veja o [estado detalhado](docs/STATUS.md).
+> **A tradução ainda está em revisão.** Você pode encontrar trechos em inglês, frases que precisam de melhorias e textos que não cabem direito na tela. O percentual de textos preparados não significa que tudo já foi revisado ou testado no jogo. Veja [como está o projeto](docs/STATUS.md).
 
 ## Comece por aqui
 
